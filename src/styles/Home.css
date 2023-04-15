@@ -1,0 +1,23 @@
+.home {
+    width: 100%;
+    align-items: center;
+    
+   
+  }
+
+.homeinfo {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    color: #44703e;
+}
+
+.prompt .about {
+    width: 40%;
+    font-size: 30px;
+  }
